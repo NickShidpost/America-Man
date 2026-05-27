@@ -37,4 +37,9 @@ public class PlayerCamera : MonoBehaviour
     {
         FollowPlayer = Value;
     }
+
+    public void movePlayer()
+    {
+
+    }
 }
