@@ -382,10 +382,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 0
-    y: 0
-    width: 20
-    height: 66
+    x: 778.91
+    y: 5.1269126
+    width: 20.074999
+    height: 49.72
   relativePosition: {x: 97, y: 9}
   numSlots: 1
   uiButton: {fileID: 0}
@@ -2359,10 +2359,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 28
-    y: 4
-    width: 728
-    height: 66
+    x: 28.104998
+    y: 4.015
+    width: 730.73
+    height: 49.72
   relativePosition: {x: 0, y: 0}
   numSlots: 13
   uiSlots:
@@ -3465,36 +3465,36 @@ MonoBehaviour:
   canvas: {fileID: 22300000, guid: ed79d26c7741ab4468058cd497a398e7, type: 3}
   canvasAssetKey: 
   canvasID: 0
-  rectTransform: {fileID: 0}
+  rectTransform: {fileID: 22400036, guid: ed79d26c7741ab4468058cd497a398e7, type: 3}
   rectTransformID: 1765320
-  uiTransitionType: 1
+  uiTransitionType: 2
   uiPositionType: 0
   _isLocked: 0
   id: 3
   title: Inventory
   manualSize: {x: 100, y: 12.60303}
   positionType: 1
-  manualPosition: {x: 400, y: 37.80909}
+  manualPosition: {x: 401.5, y: 28.482847}
   positionSmoothing: 0
   alignment: 0
-  toggleKey: 
+  toggleKey: Tab
   ignoreMouseClicks: 0
   pauseWhenEnabled: 0
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 0}
-  actionListOnTurnOff: {fileID: 0}
+  actionListOnTurnOn: {fileID: 11400000, guid: 774cc06281a38b34098877a609743191, type: 2}
+  actionListOnTurnOff: {fileID: 11400000, guid: 5b647dea736d03843918b0c498f8c7c6, type: 2}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
-  fitWithinScreen: 1
+  fitWithinScreen: 0
   backgroundTexture: {fileID: 2800000, guid: 5f4f3dd6223164fe49aea7eb6c0bc529, type: 3}
   visibleElements:
   - {fileID: 2361010434487964765}
   - {fileID: -4479926556820721825}
   - {fileID: -8436463867954293439}
   transitionProgress: 0
-  appearType: 1
+  appearType: 0
   speechMenuType: 0
   speechMenuLimit: 0
   limitToCharacters: 
@@ -3552,8 +3552,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 800
-    height: 75.61818
+    width: 803
+    height: 56.965694
 --- !u!114 &-1748809470873535070
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5518,10 +5518,10 @@ MonoBehaviour:
   maxAutoWidthFactor: 0.5
   relativeRect:
     serializedVersion: 2
-    x: 4
-    y: 4
-    width: 20
-    height: 66
+    x: 4.015
+    y: 4.015
+    width: 20.074999
+    height: 49.72
   relativePosition: {x: 0, y: 0}
   numSlots: 1
   uiButton: {fileID: 0}

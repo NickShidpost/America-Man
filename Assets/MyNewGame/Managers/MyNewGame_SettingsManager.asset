@@ -45,7 +45,7 @@ MonoBehaviour:
   playerSwitching: 1
   legacyPlayer: {fileID: 0}
   playerPrefab:
-    playerOb: {fileID: 3402324189887888558, guid: c5e5700a8f3cbe9478745bf932966306, type: 3}
+    playerOb: {fileID: 5924850381597330268, guid: 7979fa41f99168d4d904f878842d4628, type: 3}
     ID: 0
     isDefault: 0
     startingSceneIndex: 0
@@ -151,6 +151,17 @@ MonoBehaviour:
     gameState: 0
     gameStateFlags: 7
     actionListAsset: {fileID: 11400000, guid: d91b242545c787045afb6d7a24bdae0a, type: 2}
+    inputType: 0
+    axisThreshold: 0.2
+    buttonType: 0
+    hasUpgraded: 1
+  - label: Open Inv
+    ID: 2
+    inputName: Tab
+    enabledOnStart: 1
+    gameState: 0
+    gameStateFlags: 1
+    actionListAsset: {fileID: 11400000, guid: 774cc06281a38b34098877a609743191, type: 2}
     inputType: 0
     axisThreshold: 0.2
     buttonType: 0

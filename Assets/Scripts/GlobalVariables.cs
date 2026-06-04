@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class GlobalVariables : MonoBehaviour
 {
+    public AC.Player player;
     public List<string> SaveFileTags = new List<string>();
 
     void Start()
